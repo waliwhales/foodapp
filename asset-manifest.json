@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/waliwhales/foodapp.git/static/css/main.e6c13ad2.css",
+    "main.js": "/waliwhales/foodapp.git/static/js/main.eaf55770.js",
+    "static/js/453.f8d048a6.chunk.js": "/waliwhales/foodapp.git/static/js/453.f8d048a6.chunk.js",
+    "index.html": "/waliwhales/foodapp.git/index.html",
+    "main.e6c13ad2.css.map": "/waliwhales/foodapp.git/static/css/main.e6c13ad2.css.map",
+    "main.eaf55770.js.map": "/waliwhales/foodapp.git/static/js/main.eaf55770.js.map",
+    "453.f8d048a6.chunk.js.map": "/waliwhales/foodapp.git/static/js/453.f8d048a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eaf55770.js"
+  ]
+}
